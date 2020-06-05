@@ -2,4 +2,4 @@
 
 Repositório teste.
 
-![.git.png](mensagem na imagem)
+![./git.png](mensagem na imagem)
