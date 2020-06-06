@@ -2,4 +2,4 @@
 
 Repositório teste.
 
-![./git.png](mensagem na imagem)
+![Alt mensagem](git.png?raw=true "Git")
